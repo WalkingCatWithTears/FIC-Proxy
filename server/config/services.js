@@ -56,9 +56,5 @@ module.exports = {
     url: 'https://related-product-walking-cat.herokuapp.com/',
     bundle: 'app.js',
   },
-  // service4: {
-  //   api: 'FIX_ME',
-  //   url: 'http://localhost:3004',
-  //   bundle: 'app.js',
-  // },
+
 };
