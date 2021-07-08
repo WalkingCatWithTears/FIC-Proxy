@@ -4,7 +4,7 @@
 
 const server = require('./server');
 
-const PORT = 3000 || process.env.PORT;
+const PORT = process.env.PORT || 3000;
 
 server.listen(PORT, () => {
   // eslint-disable-next-line no-console
